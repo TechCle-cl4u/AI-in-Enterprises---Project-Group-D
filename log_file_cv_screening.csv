@@ -1,5 +1,6 @@
-Job Description,Document Size (bytes),Analysis Time (seconds),LLM Model,Feedback,Recommendation
-"Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme für Möbel her, die in über 120 Märkte geliefert werden. Unsere Informatik ist dabei entlang von End-To-End-Geschäftsprozessen organisiert.
+Run ID,Job Description,Recommendation,Document Size (bytes),Analysis Time (seconds),LLM Model,Feedback,Prompt Task
+388a85f6-3a4a-4fa2-829b-d86eb9ac81ee,"Details zum Jobangebot
+Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme für Möbel her, die in über 120 Märkte geliefert werden. Unsere Informatik ist dabei entlang von End-To-End-Geschäftsprozessen organisiert.
 
 Als Projektleiterin bzw. Projektleiter übernimmst du die Steuerung und Weiterentwicklung unserer IT-nahen Projekte. Du agierst als zentrale Schnittstelle zwischen Auftraggebern, Stakeholdern und Projektteams und stellst sicher, dass Projekte strukturiert geplant, zielgerichtet gesteuert und effizient umgesetzt werden.
 
@@ -29,28 +30,601 @@ Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich ei
 Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich
 
 
- 
 
-Gesetzlich verpflichtender Hinweis: Das tatsächliche Gehalt liegt über dem Metaller-KV und orientiert sich an der beruflichen Qualifikation und Erfahrung sowie am Vorarlberger Arbeitsmarkt.",3358,168.75263094902039,gemma3:12b,,"Okay, here's a ranking of the applicants, along with justifications based on the job description.
+
+Gesetzlich verpflichtender Hinweis: Das tatsächliche Gehalt liegt über dem Metaller-KV und orientiert sich an der beruflichen Qualifikation und Erfahrung sowie am Vorarlberger Arbeitsmarkt.","Okay, here's a ranking of the applicants based on the job description, along with brief explanations in English:
+
+**1. Alex Beispiel**
+
+*   **Ranking Reason:** Alex is the clear frontrunner. Their background aligns *directly* with the job requirements.
+    *   **Relevant Education:** BSc in Computer Science - shows a technical foundation which is valuable for IT-adjacent projects.
+    *   **Direct Experience:**  ""IT-Projektmanager*in"" (IT Project Manager) at TechFirma for a significant period (2021-2025) demonstrates experience in the exact role.
+    *   **Key Skills Mentioned:**  ""Agile Methoden, Scrum, Jira, MS Project"" - These are all explicitly mentioned as desirable skills.  The experience with Scrum is particularly valuable.
+    *   **Relevant Tasks:** ""Projektplanung, Teamkoordination, Budgetkontrolle"" - These tasks directly match the responsibilities outlined in the job description.
+
+**2. Jamie Muster**
+
+*   **Ranking Reason:** Jamie is significantly less suitable than Alex, but not entirely out of the running. They lack the core IT experience.
+    *   **Education Mismatch:** BSc in Business Administration (BWL) is not directly relevant to the IT focus of the role.
+    *   **Lack of IT Experience:** Their experience as a ""Büroassistenz"" (Office Assistant) doesn't demonstrate project management or IT skills.
+    *   **Transferable Skills:** They *do* have some transferable skills like organization, communication, and documentation, which are valuable, but not enough to compensate for the lack of IT project management experience.  They would require significant training.
+
+
+
+**In summary:** Alex is a strong candidate who closely matches the job description. Jamie would require a significant amount of training and might not be a good fit for the role.",3358,67.93538022041321,gemma3:12b,positive,"Rank the applicants and give short reasons (english).
+"
+797e493f-d446-4a9e-a44f-b760bae20dfc,"SAP Entwickler
+","Okay, here's a ranking of the applicants based on the provided CV excerpts, along with brief explanations in English:
 
 **Ranking:**
 
-1. **Alex Beispiel**
-2. **Jamie Muster**
+1. **Alex Beispiel** - **Strong Potential, Requires Further Investigation**
+   * **Reason:** While the CV doesn't explicitly mention SAP experience, Alex has a BSc in Computer Science, which is a good foundation for becoming a SAP developer. The project management experience (especially with Agile methodologies like Scrum) demonstrates organizational skills, problem-solving abilities, and a familiarity with project workflows – all valuable in a development role.  *However*, the CV *doesn't* mention any SAP-specific skills.  This needs to be explored in an interview.  The potential is there, but it's not immediately obvious.
 
-**Justification:**
-
-*   **Alex Beispiel - Top Candidate:** Alex is the clear frontrunner.
-    *   **Relevant Education:** A BSc in Computer Science directly aligns with the IT-focused nature of the role.
-    *   **Direct Experience:**  The experience as an IT Project Manager at TechFirma is *exactly* what the job description is looking for. The listed tasks (project planning, team coordination, budget control) are core responsibilities.
-    *   **Methodology Knowledge:**  Explicit mention of Agile methods and Scrum, along with tools like Jira and MS Project, demonstrates familiarity with the methodologies and tools likely used at Blum.
-    *   **Overall:** Alex possesses the education, experience, and skillset that most closely match the requirements.
-
-*   **Jamie Muster - Not a Strong Fit:** Jamie is significantly less suitable.
-    *   **Irrelevant Education:** A BSc in Business Administration (BWL) is not directly relevant to an IT-focused project management role.
-    *   **Lack of Relevant Experience:** The experience as an office assistant, while demonstrating organizational skills, doesn't provide any project management experience, especially in an IT context.
-    *   **Limited Skillset:** While MS Office, communication, and organization are valuable, they don't showcase the specific project management methodologies and technical understanding required.
+2. **Jamie Muster** - **Not a Suitable Fit**
+   * **Reason:** Jamie's background in Business Administration and experience as an office assistant don't align with the requirements of a SAP developer role. The listed skills (MS Office, communication, organization) are valuable in many roles, but don't indicate any technical aptitude or experience relevant to SAP development.
 
 
 
-**In short:** Alex is a strong match; Jamie is not."
+**Important Notes:**
+
+*   **This is based *solely* on the provided excerpts.** A full CV would provide more context.
+*   **""Potential"" for Alex is key.**  The interview would need to determine if Alex has any self-taught SAP knowledge, or a willingness to learn.
+*   **Don't completely dismiss Jamie.** They might have transferable skills or a strong desire to learn, but the current CV doesn't suggest a good fit.",3358,42.02796530723572,gemma3:12b,,"Rank the applicants and give short reasons (english).
+"
+bf645b69-20a7-430f-9cbf-bff639dd4d12,"Details zum Jobangebot
+Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme für Möbel her, die in über 120 Märkte geliefert werden. Unsere Informatik ist dabei entlang von End-To-End-Geschäftsprozessen organisiert.
+
+Als Projektleiterin bzw. Projektleiter übernimmst du die Steuerung und Weiterentwicklung unserer IT-nahen Projekte. Du agierst als zentrale Schnittstelle zwischen Auftraggebern, Stakeholdern und Projektteams und stellst sicher, dass Projekte strukturiert geplant, zielgerichtet gesteuert und effizient umgesetzt werden.
+
+DU
+
+führst Projekte mit IT-Bezug sicher ans Ziel und behältst stets den Überblick über Qualität, Budget und Zeitplan – dabei setzt du Projektmanagementmethoden (agil, Wasserfall, hybride Modelle) professionell und bedarfsorientiert ein Ganzheitliche Projektverantwortung und Methodensicherheit
+arbeitest vorausschauend, setzt klare Prioritäten und sorgst für Transparenz und adäquate Dokumentation – Als kommunikative Vermittlungsperson führst du Auftraggeber, Teams und weitere Stakeholder zusammen und sorgst für Transparenz Strukturierte Planung und Stakeholder-Management
+arbeitest an fachbereichsübergreifenden Themen, schaffst Verbindungen zwischen Unternehmensbereichen und Projekten – dabei moderierst du Workshops souverän und unterstützt Teams dabei, tragfähige Entscheidungen zu treffen Bereichsübergreifende Zusammenarbeit und Moderation & Lösungsfindung
+achtest auf effizienten Ressourceneinsatz und unterstützt eine nachhaltige Projektkultur Ressourcenbewusstes Arbeiten
+
+
+WIR
+
+legen Wert auf eine gute Ausbildung – du bringst mehrjährige Erfahrung als Projektleiterin bzw. Projektleiter (idealerweise im IT-Umfeld) mit. 
+schätzen deine Fähigkeit, unterschiedliche Interessen zusammenzuführen und nachhaltige Entscheidungen herbeizuführen – Verantwortung übernehmen, Veränderung gestalten und Menschen auf diesem Weg begleiten, bereitet dir Freude 
+suchen ein engagiertes Teammitglied mit Professionalität im Bereich Zusammenarbeit, Vernetzung, strukturierter Arbeitsweise und sicherem Umgang mit Projektmanagementmethoden (Scrum, Kanban, klassischen Modellen, hybriden Ansätzen) 
+sind weltweit tätig - überzeugende Kommunikation und Moderationsstärke auf Deutsch und Englisch sind uns wichtig
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich
+
+
+
+
+Gesetzlich verpflichtender Hinweis: Das tatsächliche Gehalt liegt über dem Metaller-KV und orientiert sich an der beruflichen Qualifikation und Erfahrung sowie am Vorarlberger Arbeitsmarkt.","Okay, here's a ranking of the applicants based on the job description, along with brief explanations in English:
+
+**Ranking:**
+
+1. **Alex Beispiel** - **Strongly Recommended**
+   * **Why:** Alex's background is a *very* strong match.  The BSc in Computer Science directly aligns with the IT-related nature of the projects.  The experience as an IT Project Manager is exactly what the role requires.  The listed skills (Agile, Scrum, Jira, MS Project) are all highly relevant and demonstrate practical experience with project management tools and methodologies.  This candidate appears to have the core technical and project management experience needed to succeed.
+
+2. **Jamie Muster** - **Not a Suitable Match**
+   * **Why:** Jamie's background is significantly less aligned. A BSc in Business Administration and experience as an office assistant doesn't provide the necessary IT project management experience. While organizational and communication skills are valuable, they aren't sufficient to fulfill the core responsibilities of the role. The listed skills (MS Office, Communication, Organization) are basic and don't demonstrate the project management expertise required.
+
+
+
+**Summary:**
+
+Alex is the clear frontrunner. Jamie doesn't possess the necessary technical or project management experience to be considered a viable candidate for this position.",3358,42.75067186355591,gemma3:12b,,"Rank the applicants and give short reasons (english).
+"
+29a98076-dc86-42a2-a756-6b8ed466406c,"Details zum Jobangebot
+Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme für Möbel her, die in über 120 Märkte geliefert werden. Unsere Informatik ist dabei entlang von End-To-End-Geschäftsprozessen organisiert.
+
+Als Projektleiterin bzw. Projektleiter übernimmst du die Steuerung und Weiterentwicklung unserer IT-nahen Projekte. Du agierst als zentrale Schnittstelle zwischen Auftraggebern, Stakeholdern und Projektteams und stellst sicher, dass Projekte strukturiert geplant, zielgerichtet gesteuert und effizient umgesetzt werden.
+
+DU
+
+führst Projekte mit IT-Bezug sicher ans Ziel und behältst stets den Überblick über Qualität, Budget und Zeitplan – dabei setzt du Projektmanagementmethoden (agil, Wasserfall, hybride Modelle) professionell und bedarfsorientiert ein Ganzheitliche Projektverantwortung und Methodensicherheit
+arbeitest vorausschauend, setzt klare Prioritäten und sorgst für Transparenz und adäquate Dokumentation – Als kommunikative Vermittlungsperson führst du Auftraggeber, Teams und weitere Stakeholder zusammen und sorgst für Transparenz Strukturierte Planung und Stakeholder-Management
+arbeitest an fachbereichsübergreifenden Themen, schaffst Verbindungen zwischen Unternehmensbereichen und Projekten – dabei moderierst du Workshops souverän und unterstützt Teams dabei, tragfähige Entscheidungen zu treffen Bereichsübergreifende Zusammenarbeit und Moderation & Lösungsfindung
+achtest auf effizienten Ressourceneinsatz und unterstützt eine nachhaltige Projektkultur Ressourcenbewusstes Arbeiten
+
+
+WIR
+
+legen Wert auf eine gute Ausbildung – du bringst mehrjährige Erfahrung als Projektleiterin bzw. Projektleiter (idealerweise im IT-Umfeld) mit. 
+schätzen deine Fähigkeit, unterschiedliche Interessen zusammenzuführen und nachhaltige Entscheidungen herbeizuführen – Verantwortung übernehmen, Veränderung gestalten und Menschen auf diesem Weg begleiten, bereitet dir Freude 
+suchen ein engagiertes Teammitglied mit Professionalität im Bereich Zusammenarbeit, Vernetzung, strukturierter Arbeitsweise und sicherem Umgang mit Projektmanagementmethoden (Scrum, Kanban, klassischen Modellen, hybriden Ansätzen) 
+sind weltweit tätig - überzeugende Kommunikation und Moderationsstärke auf Deutsch und Englisch sind uns wichtig
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich
+
+
+
+
+Gesetzlich verpflichtender Hinweis: Das tatsächliche Gehalt liegt über dem Metaller-KV und orientiert sich an der beruflichen Qualifikation und Erfahrung sowie am Vorarlberger Arbeitsmarkt.","Okay, here's a ranking of the applicants based on the job description, along with brief explanations in English:
+
+**1. Alex Beispiel**
+
+*   **Ranking Reason:** Alex is the clear frontrunner. Their background aligns *directly* with the job requirements.
+    *   **Relevant Education:** BSc in Computer Science – a strong foundation for IT-related projects.
+    *   **Direct Experience:**  ""IT-Projektmanager*in"" (IT Project Manager) at TechFirma for a significant period (2021-2025) demonstrates practical experience in the role.
+    *   **Key Skills Mentioned:**  ""Projektplanung"" (Project Planning), ""Teamkoordination"" (Team Coordination), ""Budgetkontrolle"" (Budget Control) – all core responsibilities of the role.
+    *   **Methodology Knowledge:** Explicitly mentions ""Agile Methoden"" and ""Scrum,"" which are highly valued in the job description.  Jira and MS Project are also relevant tools.
+
+**2. Jamie Muster**
+
+*   **Ranking Reason:** Jamie is significantly less suitable than Alex, but not entirely out of consideration.
+    *   **Mismatched Education:** BSc in Business Administration (BWL) is not directly relevant to the IT focus of the role.
+    *   **Lack of IT Experience:** Their experience as a ""Büroassistenz"" (Office Assistant) doesn't demonstrate project management or IT skills.
+    *   **Transferable Skills:** They do possess some transferable skills like ""Organisation"" (Organization), ""Kommunikation"" (Communication), and ""Dokumentation"" (Documentation), which are valuable, but not enough to compensate for the lack of IT and project management experience.  They would require significant training.
+
+
+
+**In summary:** Alex is a strong candidate who closely matches the job description. Jamie would require a significant amount of training and experience to be considered a viable option.",3358,72.37583589553833,gemma3:12b,positive,"Rank the applicants and give short reasons (english).
+"
+fa1d77e8-615c-4ee9-a0f6-d538fd7c962f,"Details zum Jobangebot
+Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme für Möbel her, die in über 120 Märkte geliefert werden. Unsere Informatik ist dabei entlang von End-To-End-Geschäftsprozessen organisiert.
+
+Als Projektleiterin bzw. Projektleiter übernimmst du die Steuerung und Weiterentwicklung unserer IT-nahen Projekte. Du agierst als zentrale Schnittstelle zwischen Auftraggebern, Stakeholdern und Projektteams und stellst sicher, dass Projekte strukturiert geplant, zielgerichtet gesteuert und effizient umgesetzt werden.
+
+DU
+
+führst Projekte mit IT-Bezug sicher ans Ziel und behältst stets den Überblick über Qualität, Budget und Zeitplan – dabei setzt du Projektmanagementmethoden (agil, Wasserfall, hybride Modelle) professionell und bedarfsorientiert ein Ganzheitliche Projektverantwortung und Methodensicherheit
+arbeitest vorausschauend, setzt klare Prioritäten und sorgst für Transparenz und adäquate Dokumentation – Als kommunikative Vermittlungsperson führst du Auftraggeber, Teams und weitere Stakeholder zusammen und sorgst für Transparenz Strukturierte Planung und Stakeholder-Management
+arbeitest an fachbereichsübergreifenden Themen, schaffst Verbindungen zwischen Unternehmensbereichen und Projekten – dabei moderierst du Workshops souverän und unterstützt Teams dabei, tragfähige Entscheidungen zu treffen Bereichsübergreifende Zusammenarbeit und Moderation & Lösungsfindung
+achtest auf effizienten Ressourceneinsatz und unterstützt eine nachhaltige Projektkultur Ressourcenbewusstes Arbeiten
+
+
+WIR
+
+legen Wert auf eine gute Ausbildung – du bringst mehrjährige Erfahrung als Projektleiterin bzw. Projektleiter (idealerweise im IT-Umfeld) mit. 
+schätzen deine Fähigkeit, unterschiedliche Interessen zusammenzuführen und nachhaltige Entscheidungen herbeizuführen – Verantwortung übernehmen, Veränderung gestalten und Menschen auf diesem Weg begleiten, bereitet dir Freude 
+suchen ein engagiertes Teammitglied mit Professionalität im Bereich Zusammenarbeit, Vernetzung, strukturierter Arbeitsweise und sicherem Umgang mit Projektmanagementmethoden (Scrum, Kanban, klassischen Modellen, hybriden Ansätzen) 
+sind weltweit tätig - überzeugende Kommunikation und Moderationsstärke auf Deutsch und Englisch sind uns wichtig
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich
+
+
+
+
+Gesetzlich verpflichtender Hinweis: Das tatsächliche Gehalt liegt über dem Metaller-KV und orientiert sich an der beruflichen Qualifikation und Erfahrung sowie am Vorarlberger Arbeitsmarkt.","Okay, let's rank the applicants based on their CV excerpts and provide short reasons for each ranking.
+
+**Ranking:**
+
+1.  **Alex Beispiel:** This applicant has the most relevant and impressive experience.
+    *   **Reasons:**
+        *   **Strong IT Background:** BSc Informatik is a foundational qualification in IT.
+        *   **Project Management Experience:** 2 years of experience as an IT Project Manager demonstrates practical skills in project planning, team coordination, and budget control – crucial for a project leadership role.
+        *   **Agile Expertise:** Mention of Agile methods (Agile, Scrum) shows familiarity with modern project management methodologies.
+
+2.  **Jamie Muster:** This applicant has a solid foundation with a Business Administration degree.
+    *   **Reasons:**
+        *   **Business Acumen:** BSc BWL suggests a good understanding of business principles, which is valuable for understanding the project context.
+        *   **Organizational Skills:**  Büroassistenz experience highlights organizational abilities, important for managing stakeholder expectations and ensuring project transparency.
+
+3.  **Alex Beispiel:** While Alex has experience, the focus on IT projects might make them slightly less ideal for this specific role.
+    *   **Reasons:**
+        *   **Limited Project Management Experience:** While IT experience is valuable, the lack of a dedicated project management role might indicate a need for more experience in leading projects.
+
+4.  **Jamie Muster:**  The focus on a business background might be a bit too narrow for the role.
+    *   **Reasons:**
+        *   **Less Relevant IT Experience:**  A business background isn't directly related to IT project management.
+
+5.  **Jamie Muster:**  The experience is too general.
+    *   **Reasons:**
+        *   **Lack of Specific Project Management Skills:** The role requires a strong understanding of project management methodologies.
+
+**Summary:**
+
+Alex is the clear frontrunner due to their extensive IT project management experience. Jamie is a good fit, but needs to develop more project management skills.  Jamie's business background is a slight advantage, but the role requires more IT expertise.
+
+Let me know if you'd like me to elaborate on any of these points or provide more detailed reasoning!",3358,20.38311791419983,gemma3:1b,positive,"Rank the applicants and give short reasons (english).
+"
+82bf71b1-6d2c-4005-b7a2-b561ce2c05ec,"Details zum Jobangebot
+Das Familienunternehmen Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme her, die auf der ganzen Welt in Möbeln verbaut werden. Wusstest du, dass sich im Bereich ""Produkttechnologien"" rund 100 Mitarbeitende um die Entwicklung und Etablierung neuer Technologien kümmern und darüber hinaus unseren Produktentwicklungsprozess technologisch begleiten? Unser Fokus liegt dabei auf den Technologiefeldern Energiespeicher, Getriebe-, Dämpf- und tribologische Systeme, sowie Werkstoff- und Oberflächentechnik.
+
+DU
+
+unterstützt unsere Projektteams gerne bei Planung und Kommunikation, sowie der Begleitung des Fachbereichs beim Multiprojektmanagement und dem Projektcontrolling 
+vertrittst unseren Bereich in diversen Gremien und sorgst so für eine gute Vernetzung und Kommunikation innerhalb des Unternehmens
+liebst den Umgang mit Wissen – die Ausarbeitung von Konzepten und Strategien zur Identifizierung, Sicherstellung und Verteilung von Wissen, macht dir Spaß
+ gestaltest die Mitarbeiterentwicklung für den gesamten Bereich mit, und bist erste Ansprechperson für die Themen Onboarding und Weiterbildung für Mitarbeitende und Führungskräfte 
+
+
+WIR
+
+wünschen uns eine motivierende Persönlichkeit mit Erfahrung im Bereich Wissens- und Projektmanagement 
+ suchen ein Organisationstalent mit Hands-on-Mentalität und einem hohen Maß an Eigeninitiative, Lösungsorientierung und Kommunikationsstärke 
+ arbeiten vernetzt – durch deine (Beratungs-) Kompetenz sorgst du für Transparenz, auch über die Bereichsgrenzen hinaus 
+ freuen uns, dich bei deinem Einstieg und deiner weiteren Entwicklung zu begleiten und zählen dabei auf deine Faszination im Umgang mit Menschen und Wissen 
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich","Okay, let's rank the applicants based on their CVs and provide short reasons for each ranking. Here's my assessment:
+
+**1. Alex Beispiel - Highly Ranked**
+
+*   **Reasoning:** Alex’s experience as an IT-Projektmanager*in is the strongest point. The fact that they’ve managed projects, coordinated teams, and controlled budgets demonstrates a solid foundation in project management.  Their BSc in Computer Science is a valuable background, and the Agile methodologies they've used are highly relevant to the job description.  The fact that they’ve been with the company for a significant period (2021-2025) suggests a good fit for the company’s needs.
+
+**2. Jamie Muster - Moderately Ranked**
+
+*   **Reasoning:** Jamie’s experience as a Business Administration student is a good starting point, but it’s less directly relevant to the described responsibilities. While they have organizational and communication skills, they lack the specific project management and technical expertise needed for this role.  Their experience in OfficePlus is less impressive than Alex’s.
+
+**3.  (No Ranking - Not Enough Information)**
+
+*   **Reasoning:**  The CVs are too brief to make a meaningful ranking.  We need more details about their skills, experience, and how they align with the job description.
+
+**Summary of Key Strengths & Alignment:**
+
+*   **Alex:** Strong technical background, project management experience, and a solid foundation in Agile methodologies.
+*   **Jamie:**  Good for a more administrative role, but lacks the technical expertise needed for the job.
+
+Let me know if you'd like me to elaborate on any of these points or provide more detailed feedback!",3358,76.08218002319336,gemma3:1b,positive,"Rank the applicants and give short reasons (english).
+"
+49017dc3-2887-4af2-ac71-29886f70fb36,"Details zum Jobangebot
+Das Familienunternehmen Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme her, die auf der ganzen Welt in Möbeln verbaut werden. Wusstest du, dass sich im Bereich ""Produkttechnologien"" rund 100 Mitarbeitende um die Entwicklung und Etablierung neuer Technologien kümmern und darüber hinaus unseren Produktentwicklungsprozess technologisch begleiten? Unser Fokus liegt dabei auf den Technologiefeldern Energiespeicher, Getriebe-, Dämpf- und tribologische Systeme, sowie Werkstoff- und Oberflächentechnik.
+
+DU
+
+unterstützt unsere Projektteams gerne bei Planung und Kommunikation, sowie der Begleitung des Fachbereichs beim Multiprojektmanagement und dem Projektcontrolling 
+vertrittst unseren Bereich in diversen Gremien und sorgst so für eine gute Vernetzung und Kommunikation innerhalb des Unternehmens
+liebst den Umgang mit Wissen – die Ausarbeitung von Konzepten und Strategien zur Identifizierung, Sicherstellung und Verteilung von Wissen, macht dir Spaß
+ gestaltest die Mitarbeiterentwicklung für den gesamten Bereich mit, und bist erste Ansprechperson für die Themen Onboarding und Weiterbildung für Mitarbeitende und Führungskräfte 
+
+
+WIR
+
+wünschen uns eine motivierende Persönlichkeit mit Erfahrung im Bereich Wissens- und Projektmanagement 
+ suchen ein Organisationstalent mit Hands-on-Mentalität und einem hohen Maß an Eigeninitiative, Lösungsorientierung und Kommunikationsstärke 
+ arbeiten vernetzt – durch deine (Beratungs-) Kompetenz sorgst du für Transparenz, auch über die Bereichsgrenzen hinaus 
+ freuen uns, dich bei deinem Einstieg und deiner weiteren Entwicklung zu begleiten und zählen dabei auf deine Faszination im Umgang mit Menschen und Wissen 
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich","Okay, hier ist eine Bewertung der Bewerber, auf Deutsch, mit Begründung:
+
+**Ranking der Bewerber:**
+
+1. **Alex Beispiel:**
+   * **Bewertung:** Sehr gut.
+   * **Begründung:** Alex's Hintergrund als IT-Projektmanager*in passt hervorragend zur Stellenbeschreibung. Die genannten Aufgaben (Projektplanung, Teamkoordination, Budgetkontrolle) decken sich direkt mit den Anforderungen an Projektmanagement und Controlling. Die Kenntnisse in agilen Methoden (Scrum, Jira, MS Project) sind ein klarer Vorteil, auch wenn die Stelle nicht explizit IT-bezogen ist, zeigen sie eine strukturierte Arbeitsweise und Affinität für Projektmanagement-Tools. Der Informatik-Abschluss deutet auf eine analytische Denkweise hin, die für die Wissensmanagement-Aspekte der Stelle nützlich sein kann.
+
+2. **Jamie Muster:**
+   * **Bewertung:** Akzeptabel, aber mit deutlichen Einschränkungen.
+   * **Begründung:** Jamie's Erfahrung als Büroassistenz zeigt Organisationstalent und Kommunikationsfähigkeit, was wichtig ist. Allerdings ist der Hintergrund in BWL und die Aufgabenbeschreibung (Organisation, Kundenkontakt, Dokumentation) weniger direkt relevant für die Kernanforderungen der Stelle (Wissensmanagement, Projektmanagement, technisches Verständnis).  Die Kenntnisse in MS Office sind Standard und bieten keinen besonderen Mehrwert.  Es wäre wichtig zu sehen, ob Jamie während ihrer Tätigkeit als Büroassistenz auch Aufgaben im Bereich Projektunterstützung oder Wissensmanagement übernommen hat.  Eine Weiterbildung oder zusätzliches Interesse in diesen Bereichen könnte die Eignung verbessern.
+
+**Zusammenfassend:**
+
+Alex ist der deutlich stärkere Kandidat aufgrund der direkten Erfahrung im Projektmanagement und der relevanten Kenntnisse. Jamie könnte eine Option sein, wenn die Stelle als Einstieg in ein Wissensmanagement- oder Projektmanagement-Feld gesehen wird und Jamie bereit ist, sich schnell einzuarbeiten und zusätzliche Kenntnisse zu erwerben.  Es wäre ratsam, beide Kandidaten zu Interviews einzuladen, um ihre Motivation und Soft Skills besser einschätzen zu können.
+",3358,235.659206867218,gemma3:12b,positive,"Rank the applicants and give short reasons. Answer on german.
+"
+9ef37dac-2724-40d3-b997-6062636cf2cf,"Details zum Jobangebot
+Das Familienunternehmen Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme her, die auf der ganzen Welt in Möbeln verbaut werden. Wusstest du, dass sich im Bereich ""Produkttechnologien"" rund 100 Mitarbeitende um die Entwicklung und Etablierung neuer Technologien kümmern und darüber hinaus unseren Produktentwicklungsprozess technologisch begleiten? Unser Fokus liegt dabei auf den Technologiefeldern Energiespeicher, Getriebe-, Dämpf- und tribologische Systeme, sowie Werkstoff- und Oberflächentechnik.
+
+DU
+
+unterstützt unsere Projektteams gerne bei Planung und Kommunikation, sowie der Begleitung des Fachbereichs beim Multiprojektmanagement und dem Projektcontrolling 
+vertrittst unseren Bereich in diversen Gremien und sorgst so für eine gute Vernetzung und Kommunikation innerhalb des Unternehmens
+liebst den Umgang mit Wissen – die Ausarbeitung von Konzepten und Strategien zur Identifizierung, Sicherstellung und Verteilung von Wissen, macht dir Spaß
+ gestaltest die Mitarbeiterentwicklung für den gesamten Bereich mit, und bist erste Ansprechperson für die Themen Onboarding und Weiterbildung für Mitarbeitende und Führungskräfte 
+
+
+WIR
+
+wünschen uns eine motivierende Persönlichkeit mit Erfahrung im Bereich Wissens- und Projektmanagement 
+ suchen ein Organisationstalent mit Hands-on-Mentalität und einem hohen Maß an Eigeninitiative, Lösungsorientierung und Kommunikationsstärke 
+ arbeiten vernetzt – durch deine (Beratungs-) Kompetenz sorgst du für Transparenz, auch über die Bereichsgrenzen hinaus 
+ freuen uns, dich bei deinem Einstieg und deiner weiteren Entwicklung zu begleiten und zählen dabei auf deine Faszination im Umgang mit Menschen und Wissen 
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich","Okay, let's rank the applicants based on their CVs and provide short reasons for each ranking. Here’s my assessment:
+
+**1. Alex Beispiel - Highly Ranked**
+
+*   **Reasoning:** Alex’s experience as an IT-Projektmanager*in is the most relevant to the job description. The emphasis on project planning, team coordination, and budget control directly aligns with the responsibilities outlined. Their Agile experience and familiarity with Jira and MS Project are also highly valuable.  The fact that they’ve been in a project management role for 2 years suggests a solid foundation for this type of role.
+
+**2. Jamie Muster - Moderately Ranked**
+
+*   **Reasoning:** Jamie’s experience as a Business Administration student is a good starting point, but it’s less directly relevant to the technical aspects of the job. While valuable, it doesn’t provide the specific skills needed for the described responsibilities.  Their experience in organization and customer contact is also less impactful than Alex’s project management experience.
+
+**3.  (No Ranking - Not Enough Information)**
+
+*   **Reasoning:**  The CVs are too brief to make a meaningful ranking.  We need more details about their skills, experience, and how they might fit the company’s needs.
+
+**Important Note:** This ranking is based solely on the provided CVs. A deeper dive into their skills, experience, and how they articulate their qualifications would be needed for a more accurate assessment.
+
+---
+
+Let me know if you'd like me to elaborate on any of these points or provide more detailed feedback!",3358,19.955399751663208,gemma3:1b,positive,"Rank the applicants and give short reasons (english).
+"
+34b0a41a-646b-45f4-ba26-cdba9bcf514a,"Details zum Jobangebot
+Das Familienunternehmen Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme her, die auf der ganzen Welt in Möbeln verbaut werden. Wusstest du, dass sich im Bereich ""Produkttechnologien"" rund 100 Mitarbeitende um die Entwicklung und Etablierung neuer Technologien kümmern und darüber hinaus unseren Produktentwicklungsprozess technologisch begleiten? Unser Fokus liegt dabei auf den Technologiefeldern Energiespeicher, Getriebe-, Dämpf- und tribologische Systeme, sowie Werkstoff- und Oberflächentechnik.
+
+DU
+
+unterstützt unsere Projektteams gerne bei Planung und Kommunikation, sowie der Begleitung des Fachbereichs beim Multiprojektmanagement und dem Projektcontrolling 
+vertrittst unseren Bereich in diversen Gremien und sorgst so für eine gute Vernetzung und Kommunikation innerhalb des Unternehmens
+liebst den Umgang mit Wissen – die Ausarbeitung von Konzepten und Strategien zur Identifizierung, Sicherstellung und Verteilung von Wissen, macht dir Spaß
+ gestaltest die Mitarbeiterentwicklung für den gesamten Bereich mit, und bist erste Ansprechperson für die Themen Onboarding und Weiterbildung für Mitarbeitende und Führungskräfte 
+
+
+WIR
+
+wünschen uns eine motivierende Persönlichkeit mit Erfahrung im Bereich Wissens- und Projektmanagement 
+ suchen ein Organisationstalent mit Hands-on-Mentalität und einem hohen Maß an Eigeninitiative, Lösungsorientierung und Kommunikationsstärke 
+ arbeiten vernetzt – durch deine (Beratungs-) Kompetenz sorgst du für Transparenz, auch über die Bereichsgrenzen hinaus 
+ freuen uns, dich bei deinem Einstieg und deiner weiteren Entwicklung zu begleiten und zählen dabei auf deine Faszination im Umgang mit Menschen und Wissen 
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich","Okay, let's rank the applicants based on their CVs and provide short reasons for each ranking. Here's my assessment:
+
+**1. Alex Beispiel - Highly Ranked**
+
+* **Reasoning:** Alex’s experience as an IT-Projektmanager*in is the most relevant to the job description. The emphasis on project planning, team coordination, and budget control strongly aligns with the responsibilities outlined.  Their experience with Agile methodologies and Jira demonstrates a good understanding of modern project management practices.  The fact that they’ve been in a project management role for 2 years is a significant plus.
+
+**2. Jamie Muster - Moderately Ranked**
+
+* **Reasoning:** Jamie’s experience as a Business Administration student is a good starting point, but it’s less directly relevant to the described responsibilities. While valuable, it doesn’t offer the same level of technical expertise or project management experience as Alex.  The focus on organization and customer contact is also less critical to the role.
+
+**3.  (No Ranking - Not Enough Information)**
+
+* **Reasoning:**  The CVs are too brief to make a meaningful ranking.  We need more details about their skills, experience, and how they might fit the company’s needs.
+
+
+**Summary of Key Strengths & Matching to the Job Description:**
+
+* **Alex:** Strong technical background, project management experience, and familiarity with Agile methodologies.
+* **Jamie:**  Good foundational experience, but lacks the specific technical skills and project management experience needed for this role.
+
+Let me know if you'd like me to elaborate on any of these points or provide more detailed feedback!",3358,21.341474056243896,gemma3:1b,negative,"Rank the applicants and give short reasons (english).
+"
+3c056a74-19c8-418d-8ca0-4e0748f3fda4,"Details zum Jobangebot
+Das Familienunternehmen Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme her, die auf der ganzen Welt in Möbeln verbaut werden. Wusstest du, dass sich im Bereich ""Produkttechnologien"" rund 100 Mitarbeitende um die Entwicklung und Etablierung neuer Technologien kümmern und darüber hinaus unseren Produktentwicklungsprozess technologisch begleiten? Unser Fokus liegt dabei auf den Technologiefeldern Energiespeicher, Getriebe-, Dämpf- und tribologische Systeme, sowie Werkstoff- und Oberflächentechnik.
+
+DU
+
+unterstützt unsere Projektteams gerne bei Planung und Kommunikation, sowie der Begleitung des Fachbereichs beim Multiprojektmanagement und dem Projektcontrolling 
+vertrittst unseren Bereich in diversen Gremien und sorgst so für eine gute Vernetzung und Kommunikation innerhalb des Unternehmens
+liebst den Umgang mit Wissen – die Ausarbeitung von Konzepten und Strategien zur Identifizierung, Sicherstellung und Verteilung von Wissen, macht dir Spaß
+ gestaltest die Mitarbeiterentwicklung für den gesamten Bereich mit, und bist erste Ansprechperson für die Themen Onboarding und Weiterbildung für Mitarbeitende und Führungskräfte 
+
+
+WIR
+
+wünschen uns eine motivierende Persönlichkeit mit Erfahrung im Bereich Wissens- und Projektmanagement 
+ suchen ein Organisationstalent mit Hands-on-Mentalität und einem hohen Maß an Eigeninitiative, Lösungsorientierung und Kommunikationsstärke 
+ arbeiten vernetzt – durch deine (Beratungs-) Kompetenz sorgst du für Transparenz, auch über die Bereichsgrenzen hinaus 
+ freuen uns, dich bei deinem Einstieg und deiner weiteren Entwicklung zu begleiten und zählen dabei auf deine Faszination im Umgang mit Menschen und Wissen 
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich","{'result': ""**Rankings**\n\n1. **Alex Beispiel**  \n   *Why:*\u202fFour years as an **IT‑Project Manager** give Alex solid experience in project planning, team coordination and budget control – core components of the multiprojekt‑management and project‑controlling duties. Familiarity with **Agile/Scrum, Jira and MS\u202fProject** shows a hands‑on, solution‑oriented mindset and the ability to work with cross‑functional tools. While his résumé does not list explicit knowledge‑management tasks, the project‑leadership background makes it easy to transfer those skills to concept development, knowledge dissemination and onboarding activities.\n\n2. **Jamie Muster**  \n   *Why:*\u202fJamie's role as a **Büroassistenz** highlights strong organisational and communication abilities, which are valuable for supporting project teams and representing the department in committees. However, the experience is limited to general office support; there is no proven track record in project planning, budget control, multiprojekt‑management or formal knowledge‑management, making the fit less direct compared with Alex."", 'source_documents': [Document(metadata={'source': '/var/folders/_h/hqt04mg16b7cp162c4nbpd6c0000gn/T/tmplqqm2fj2.pdf', 'page': 0, 'document_name': 'CV_IT_PM.pdf'}, page_content='Lebenslauf\nName: Alex Beispiel\nAusbildung: BSc Informatik\nBerufserfahrung: IT-Projektmanager*in bei TechFirma (2021-2025)\nAufgaben: Projektplanung, Teamkoordination, Budgetkontrolle\nKenntnisse: Agile Methoden, Scrum, Jira, MS Project'), Document(metadata={'source': '/var/folders/_h/hqt04mg16b7cp162c4nbpd6c0000gn/T/tmpid_l8ml9.pdf', 'page': 0, 'document_name': 'CV_ohne_IT_PM.pdf'}, page_content='Lebenslauf\nName: Jamie Muster\nAusbildung: BSc BWL\nBerufserfahrung: Büroassistenz bei OfficePlus (2021-2025)\nAufgaben: Organisation, Kundenkontakt, Dokumentation\nKenntnisse: MS Office, Kommunikation, Organisation')]}",3358,4.64824914932251,gpt-oss:120b,,"Rank the applicants and give short reasons (english).
+"
+665d8f99-98e6-4a50-9fde-1a3cc52d74e6,"Details zum Jobangebot
+Das Familienunternehmen Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme her, die auf der ganzen Welt in Möbeln verbaut werden. Wusstest du, dass sich im Bereich ""Produkttechnologien"" rund 100 Mitarbeitende um die Entwicklung und Etablierung neuer Technologien kümmern und darüber hinaus unseren Produktentwicklungsprozess technologisch begleiten? Unser Fokus liegt dabei auf den Technologiefeldern Energiespeicher, Getriebe-, Dämpf- und tribologische Systeme, sowie Werkstoff- und Oberflächentechnik.
+
+DU
+
+unterstützt unsere Projektteams gerne bei Planung und Kommunikation, sowie der Begleitung des Fachbereichs beim Multiprojektmanagement und dem Projektcontrolling 
+vertrittst unseren Bereich in diversen Gremien und sorgst so für eine gute Vernetzung und Kommunikation innerhalb des Unternehmens
+liebst den Umgang mit Wissen – die Ausarbeitung von Konzepten und Strategien zur Identifizierung, Sicherstellung und Verteilung von Wissen, macht dir Spaß
+ gestaltest die Mitarbeiterentwicklung für den gesamten Bereich mit, und bist erste Ansprechperson für die Themen Onboarding und Weiterbildung für Mitarbeitende und Führungskräfte 
+
+
+WIR
+
+wünschen uns eine motivierende Persönlichkeit mit Erfahrung im Bereich Wissens- und Projektmanagement 
+ suchen ein Organisationstalent mit Hands-on-Mentalität und einem hohen Maß an Eigeninitiative, Lösungsorientierung und Kommunikationsstärke 
+ arbeiten vernetzt – durch deine (Beratungs-) Kompetenz sorgst du für Transparenz, auch über die Bereichsgrenzen hinaus 
+ freuen uns, dich bei deinem Einstieg und deiner weiteren Entwicklung zu begleiten und zählen dabei auf deine Faszination im Umgang mit Menschen und Wissen 
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich","{'result': ""Okay, let's rank the applicants based on their CVs and provide short reasons for each ranking. Here’s my assessment:\n\n**1. Alex Beispiel - Highly Ranked**\n\n* **Reasoning:** Alex’s experience as an IT-Projektmanager*in is the strongest point. Their demonstrated experience in project planning, team coordination, and budget control is highly relevant to the job description. The fact that they have worked with Agile methodologies (Agile methods, Scrum) is a significant plus, indicating a familiarity with modern project management practices.  The fact that they have worked for a company for 2 years shows a solid track record.\n\n**2. Jamie Muster - Moderately Ranked**\n\n* **Reasoning:** Jamie’s experience as a Business Administration student is a good starting point, but it’s less directly relevant to the described responsibilities. While they have organizational and communication skills, the focus on project management and technology is less prominent.  The experience in office assistance is also less relevant to the described role.\n\n**3.  (No Ranking - Not Enough Information)**\n\n* **Reasoning:**  The CVs are too brief to provide a meaningful ranking.  More details about their specific projects, skills, and experience would be needed to make a more informed assessment.\n\n**Summary of Key Strengths & Relevance to the Job Description:**\n\n* **Alex:** Strong project management background, familiarity with Agile methodologies, and a solid work history.\n* **Jamie:**  Good foundational skills, but lacks the specific project management experience needed for this role.\n\nLet me know if you'd like me to elaborate on any of these points or provide more detailed feedback!"", 'source_documents': [Document(metadata={'source': '/var/folders/_h/hqt04mg16b7cp162c4nbpd6c0000gn/T/tmplo8lr4hm.pdf', 'page': 0, 'document_name': 'CV_IT_PM.pdf'}, page_content='Lebenslauf\nName: Alex Beispiel\nAusbildung: BSc Informatik\nBerufserfahrung: IT-Projektmanager*in bei TechFirma (2021-2025)\nAufgaben: Projektplanung, Teamkoordination, Budgetkontrolle\nKenntnisse: Agile Methoden, Scrum, Jira, MS Project'), Document(metadata={'source': '/var/folders/_h/hqt04mg16b7cp162c4nbpd6c0000gn/T/tmpkqg2aioz.pdf', 'page': 0, 'document_name': 'CV_ohne_IT_PM.pdf'}, page_content='Lebenslauf\nName: Jamie Muster\nAusbildung: BSc BWL\nBerufserfahrung: Büroassistenz bei OfficePlus (2021-2025)\nAufgaben: Organisation, Kundenkontakt, Dokumentation\nKenntnisse: MS Office, Kommunikation, Organisation')]}",3358,21.254297018051147,gemma3:1b,,"Rank the applicants and give short reasons (english).
+"
+dc920954-c958-43a3-bfb0-27c0aef0f6f7,"Details zum Jobangebot
+Das Familienunternehmen Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme her, die auf der ganzen Welt in Möbeln verbaut werden. Wusstest du, dass sich im Bereich ""Produkttechnologien"" rund 100 Mitarbeitende um die Entwicklung und Etablierung neuer Technologien kümmern und darüber hinaus unseren Produktentwicklungsprozess technologisch begleiten? Unser Fokus liegt dabei auf den Technologiefeldern Energiespeicher, Getriebe-, Dämpf- und tribologische Systeme, sowie Werkstoff- und Oberflächentechnik.
+
+DU
+
+unterstützt unsere Projektteams gerne bei Planung und Kommunikation, sowie der Begleitung des Fachbereichs beim Multiprojektmanagement und dem Projektcontrolling 
+vertrittst unseren Bereich in diversen Gremien und sorgst so für eine gute Vernetzung und Kommunikation innerhalb des Unternehmens
+liebst den Umgang mit Wissen – die Ausarbeitung von Konzepten und Strategien zur Identifizierung, Sicherstellung und Verteilung von Wissen, macht dir Spaß
+ gestaltest die Mitarbeiterentwicklung für den gesamten Bereich mit, und bist erste Ansprechperson für die Themen Onboarding und Weiterbildung für Mitarbeitende und Führungskräfte 
+
+
+WIR
+
+wünschen uns eine motivierende Persönlichkeit mit Erfahrung im Bereich Wissens- und Projektmanagement 
+ suchen ein Organisationstalent mit Hands-on-Mentalität und einem hohen Maß an Eigeninitiative, Lösungsorientierung und Kommunikationsstärke 
+ arbeiten vernetzt – durch deine (Beratungs-) Kompetenz sorgst du für Transparenz, auch über die Bereichsgrenzen hinaus 
+ freuen uns, dich bei deinem Einstieg und deiner weiteren Entwicklung zu begleiten und zählen dabei auf deine Faszination im Umgang mit Menschen und Wissen 
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich","{'result': ""Okay, let's rank the applicants based on their CVs and provide short reasons for each ranking. Here's my assessment:\n\n**1. Alex Beispiel - Highly Ranked**\n\n* **Reasoning:** Alex’s experience as an IT-Projektmanager*in is the most relevant to the job description. The emphasis on project planning, team coordination, and budget control strongly aligns with the responsibilities outlined.  Their experience with Agile methodologies and Jira demonstrates a good understanding of project management best practices.  The fact that they've been in a project management role for 2 years suggests a solid foundation for this role.\n\n**2. Jamie Muster - Moderately Ranked**\n\n* **Reasoning:** Jamie’s experience as a Business Administration student is a good starting point, but it’s less directly relevant to the technical aspects of the job. While they have organizational and communication skills, they lack the specific project management and technical expertise needed for this role.  Their experience in office assistance is less impressive than Alex’s.\n\n**3.  (No Ranking - Not Enough Information)**\n\n* **Reasoning:**  The CVs are too brief to make a meaningful ranking.  We need more details about their skills, experience, and how they might fit the company’s needs.\n\n**Summary of Key Strengths & Potential Fit (Based on the CVs):**\n\n* **Alex:** Strong technical background, project management experience, and familiarity with Agile methodologies.\n* **Jamie:**  Good foundational skills, but lacks the specific technical expertise required for the role.\n\n\nLet me know if you'd like me to elaborate on any of these points or provide more detailed feedback!"", 'source_documents': [Document(metadata={'source': '/var/folders/_h/hqt04mg16b7cp162c4nbpd6c0000gn/T/tmpo7brqo4o.pdf', 'page': 0, 'document_name': 'CV_IT_PM.pdf'}, page_content='Lebenslauf\nName: Alex Beispiel\nAusbildung: BSc Informatik\nBerufserfahrung: IT-Projektmanager*in bei TechFirma (2021-2025)\nAufgaben: Projektplanung, Teamkoordination, Budgetkontrolle\nKenntnisse: Agile Methoden, Scrum, Jira, MS Project'), Document(metadata={'source': '/var/folders/_h/hqt04mg16b7cp162c4nbpd6c0000gn/T/tmpm293bl0q.pdf', 'page': 0, 'document_name': 'CV_ohne_IT_PM.pdf'}, page_content='Lebenslauf\nName: Jamie Muster\nAusbildung: BSc BWL\nBerufserfahrung: Büroassistenz bei OfficePlus (2021-2025)\nAufgaben: Organisation, Kundenkontakt, Dokumentation\nKenntnisse: MS Office, Kommunikation, Organisation')]}",3358,18.56318068504333,gemma3:1b,,"Rank the applicants and give short reasons (english).
+"
+36749f07-b507-40e8-9e4c-abdec7ab28a0,"Details zum Jobangebot
+Das Familienunternehmen Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme her, die auf der ganzen Welt in Möbeln verbaut werden. Wusstest du, dass sich im Bereich ""Produkttechnologien"" rund 100 Mitarbeitende um die Entwicklung und Etablierung neuer Technologien kümmern und darüber hinaus unseren Produktentwicklungsprozess technologisch begleiten? Unser Fokus liegt dabei auf den Technologiefeldern Energiespeicher, Getriebe-, Dämpf- und tribologische Systeme, sowie Werkstoff- und Oberflächentechnik.
+
+DU
+
+unterstützt unsere Projektteams gerne bei Planung und Kommunikation, sowie der Begleitung des Fachbereichs beim Multiprojektmanagement und dem Projektcontrolling 
+vertrittst unseren Bereich in diversen Gremien und sorgst so für eine gute Vernetzung und Kommunikation innerhalb des Unternehmens
+liebst den Umgang mit Wissen – die Ausarbeitung von Konzepten und Strategien zur Identifizierung, Sicherstellung und Verteilung von Wissen, macht dir Spaß
+ gestaltest die Mitarbeiterentwicklung für den gesamten Bereich mit, und bist erste Ansprechperson für die Themen Onboarding und Weiterbildung für Mitarbeitende und Führungskräfte 
+
+
+WIR
+
+wünschen uns eine motivierende Persönlichkeit mit Erfahrung im Bereich Wissens- und Projektmanagement 
+ suchen ein Organisationstalent mit Hands-on-Mentalität und einem hohen Maß an Eigeninitiative, Lösungsorientierung und Kommunikationsstärke 
+ arbeiten vernetzt – durch deine (Beratungs-) Kompetenz sorgst du für Transparenz, auch über die Bereichsgrenzen hinaus 
+ freuen uns, dich bei deinem Einstieg und deiner weiteren Entwicklung zu begleiten und zählen dabei auf deine Faszination im Umgang mit Menschen und Wissen 
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich
+","**Ranked Candidates**
+
+| Rank | Candidate | Why they fit (or don’t) |
+|------|-----------|------------------------|
+| **1** | **Alex Beispiel** | • 4 years as an **IT‑Project Manager** – direct experience with project planning, team coordination and **budget control** (project‑controlling). <br>• Comfortable with **Agile/Scrum, Jira, MS Project** – tools that support multiprojekt‑management and transparent reporting. <br>• Technical background (BSc Informatics) gives a solid foundation for understanding the product‑technology environment at Blum. <br>• Proven ability to communicate across teams and steer projects end‑to‑end, which matches the “planning & communication” and “representation in various committees” parts of the role. |
+| **2** | **Jamie Muster** | • Experience is limited to a **office‑assistant** role focused on routine organisation, customer contact and documentation. <br>• No demonstrable experience in **project or knowledge management**, budgeting, or multiproject coordination. <br>• While strong in basic MS‑Office and communication, the profile lacks the strategic and controlling skills required for the position. |
+
+**Conclusion:** Alex Beispiel is the clear match for the Knowledge & Project Management role at Blum, while Jamie Muster does not yet possess the requisite project‑management and knowledge‑transfer experience.",3358,5.3304407596588135,gpt-oss:120b,,"Rank the applicants and give short reasons (english).
+"
+83e9ce7e-9517-488b-a972-e5ec102658d5,"Details zum Jobangebot
+Das Familienunternehmen Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme her, die auf der ganzen Welt in Möbeln verbaut werden. Wusstest du, dass sich im Bereich ""Produkttechnologien"" rund 100 Mitarbeitende um die Entwicklung und Etablierung neuer Technologien kümmern und darüber hinaus unseren Produktentwicklungsprozess technologisch begleiten? Unser Fokus liegt dabei auf den Technologiefeldern Energiespeicher, Getriebe-, Dämpf- und tribologische Systeme, sowie Werkstoff- und Oberflächentechnik.
+
+DU
+
+unterstützt unsere Projektteams gerne bei Planung und Kommunikation, sowie der Begleitung des Fachbereichs beim Multiprojektmanagement und dem Projektcontrolling 
+vertrittst unseren Bereich in diversen Gremien und sorgst so für eine gute Vernetzung und Kommunikation innerhalb des Unternehmens
+liebst den Umgang mit Wissen – die Ausarbeitung von Konzepten und Strategien zur Identifizierung, Sicherstellung und Verteilung von Wissen, macht dir Spaß
+ gestaltest die Mitarbeiterentwicklung für den gesamten Bereich mit, und bist erste Ansprechperson für die Themen Onboarding und Weiterbildung für Mitarbeitende und Führungskräfte 
+
+
+WIR
+
+wünschen uns eine motivierende Persönlichkeit mit Erfahrung im Bereich Wissens- und Projektmanagement 
+ suchen ein Organisationstalent mit Hands-on-Mentalität und einem hohen Maß an Eigeninitiative, Lösungsorientierung und Kommunikationsstärke 
+ arbeiten vernetzt – durch deine (Beratungs-) Kompetenz sorgst du für Transparenz, auch über die Bereichsgrenzen hinaus 
+ freuen uns, dich bei deinem Einstieg und deiner weiteren Entwicklung zu begleiten und zählen dabei auf deine Faszination im Umgang mit Menschen und Wissen 
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich","Okay, let's rank the applicants based on their CVs and provide short reasons for each ranking. Here’s my assessment:
+
+**1. Alex Beispiel - Highly Ranked**
+
+* **Reasoning:** Alex’s experience as an IT-Projektmanager*in is the strongest point. Their experience with project planning, team coordination, and budget control is directly relevant to the job description’s focus on project management and technical guidance.  The fact that they have a BSc in Computer Science adds a significant technical background, which is valuable.  The Agile experience is also a plus, aligning well with the technological focus.
+
+**2. Jamie Muster - Moderately Ranked**
+
+* **Reasoning:** Jamie’s experience as a Business Administration student is a good starting point, but it’s less directly relevant to the technical aspects of the job. While valuable, it doesn’t provide the same level of technical expertise as Alex.  The focus on ""technological begleiten"" suggests a need for someone with a deeper understanding of technology.
+
+**3.  (No Ranking - Not Enough Information)**
+
+* **Reasoning:**  The CVs are too brief to make a meaningful ranking.  We need more details about their skills, experience, and how they align with the specific responsibilities outlined in the job description.
+
+
+**Important Note:** This ranking is based solely on the provided CVs. A deeper dive into their skills, experience, and how they articulate their experience would be needed for a more accurate assessment.
+
+---
+
+Do you want me to elaborate on any of these rankings or provide more detailed feedback based on specific skills or experiences?",3358,18.72255492210388,gemma3:1b,negative,"Rank the applicants and give short reasons (english).
+"
+34db2def-b363-470c-98ae-c59195de60e7,"Details zum Jobangebot
+Das Familienunternehmen Blum stellt Klappen-, Scharnier-, Auszugs- und Pocketsysteme her, die auf der ganzen Welt in Möbeln verbaut werden. Wusstest du, dass sich im Bereich ""Produkttechnologien"" rund 100 Mitarbeitende um die Entwicklung und Etablierung neuer Technologien kümmern und darüber hinaus unseren Produktentwicklungsprozess technologisch begleiten? Unser Fokus liegt dabei auf den Technologiefeldern Energiespeicher, Getriebe-, Dämpf- und tribologische Systeme, sowie Werkstoff- und Oberflächentechnik.
+
+DU
+
+unterstützt unsere Projektteams gerne bei Planung und Kommunikation, sowie der Begleitung des Fachbereichs beim Multiprojektmanagement und dem Projektcontrolling 
+vertrittst unseren Bereich in diversen Gremien und sorgst so für eine gute Vernetzung und Kommunikation innerhalb des Unternehmens
+liebst den Umgang mit Wissen – die Ausarbeitung von Konzepten und Strategien zur Identifizierung, Sicherstellung und Verteilung von Wissen, macht dir Spaß
+ gestaltest die Mitarbeiterentwicklung für den gesamten Bereich mit, und bist erste Ansprechperson für die Themen Onboarding und Weiterbildung für Mitarbeitende und Führungskräfte 
+
+
+WIR
+
+wünschen uns eine motivierende Persönlichkeit mit Erfahrung im Bereich Wissens- und Projektmanagement 
+ suchen ein Organisationstalent mit Hands-on-Mentalität und einem hohen Maß an Eigeninitiative, Lösungsorientierung und Kommunikationsstärke 
+ arbeiten vernetzt – durch deine (Beratungs-) Kompetenz sorgst du für Transparenz, auch über die Bereichsgrenzen hinaus 
+ freuen uns, dich bei deinem Einstieg und deiner weiteren Entwicklung zu begleiten und zählen dabei auf deine Faszination im Umgang mit Menschen und Wissen 
+
+
+WORK ORANGE
+
+Zeit für deinen guten Start: Ein(e) Einführungspatin oder -pate begleitet dich während deines Onboardings. Tools, die dir noch neu sind, lernst du in individuellen Schulungen
+Wertvolles Wissenswachstum: Zusammenarbeit mit exzellenten Fachleuten als daily basis. In diesem spannenden und kompetenten Umfeld macht die Arbeit Spaß und du gewinnst viel wertvolles Wissen - wir unterstützen dich auch gerne, wenn du dich berufsbegleitend weiterbilden willst
+Wertschätzende Firmenkultur: Wir leben ein starkes Miteinander und eine sehr flache Hierarchie. Wir sind alle per „Du“, auch mit den Eigentümern. Bei deinen Vorgesetzten genießt du vom ersten Tag an großen Vertrauensvorschuss. Sie erwarten von dir eigenständiges Arbeiten, halten dir den Rücken frei
+Hohe Lebensqualität: Wir wollen Menschen, die langfristig Freude an ihrer Arbeit haben und das braucht eine gute Balance. Deine Projekte werden dich fordern, aber nicht überfordern
+Individueller Freiraum: Wir bieten hilfreiche und klare Vorgaben und zugleich einen individuell passenden Handlungs- und Entscheidungsfreiraum. Oftmals wird das ""WAS"" vorgegeben und das ""WIE"" entscheidest du gemeinsam mit den Beteiligten
+Flexible Arbeitsweisen: Wir legen Wert auf das Zusammenspiel von Freiraum und Selbstverantwortung. Bei uns ist auch Home-Office möglich
+
+","**Ranking**
+
+1. **Alex Beispiel**  
+   *Strong fit for the role* – 4 + years as an IT‑Project Manager give him solid experience in project planning, team coordination and budget control, exactly what the job calls “Multiprojekt‑management & Projektcontrolling”. His proven use of Agile/Scrum, Jira and MS Project matches the tools the department relies on. Although his CV does not list explicit knowledge‑management activities, his background in handling complex, cross‑functional projects and his technical education (BSc Informatics) make it easy for him to pick up concept‑ and strategy‑development for knowledge sharing, onboarding and training.
+
+2. **Jamie Muster**  
+   *Partial fit* – The office‑assistant role demonstrates good organization, communication and MS‑Office skills, which are useful for day‑to‑day coordination and documentation. However, there is no evidence of experience in project (especially multiproject) management, budgeting, or systematic knowledge‑management – core requirements for the position. Jamie would need significant up‑skilling to reach the level expected for the role.",3358,7.178117036819458,gpt-oss:120b,,"Rank the applicants and give short reasons (english).
+"
