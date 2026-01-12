@@ -19,4 +19,4 @@ The LLM gives a recommendation, combined with reasons, for the applicants. In ad
 <img width="616" height="509" alt="Bildschirmfoto 2026-01-03 um 23 01 34" src="https://github.com/user-attachments/assets/3fba896d-d487-4c3b-9377-2ef80fb973c6" />
 
 # Run Application
-Install required packages and run "streamlit run app.py" in Terminal to test application. Ensure that terminal is opened in correct folder.
+Install required packages and run "streamlit run app.py" in Terminal to test application. Ensure that terminal is opened in correct folder. In order to use cloud model save your api key in api_key.txt.
