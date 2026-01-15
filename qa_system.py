@@ -1,6 +1,6 @@
-from langchain.chains import RetrievalQA
+from langchain_classic.chains import RetrievalQA
 from ollama import Client
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain_community.chat_models import ChatOllama
 from pathlib import Path
 

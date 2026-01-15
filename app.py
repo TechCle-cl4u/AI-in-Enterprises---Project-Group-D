@@ -3,7 +3,7 @@ from vectorizer import vectorize_documents
 from qa_system import compare_cvs_job_description
 from job_description_optimizer import optimize_job_description
 from pathlib import Path
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 import time
 import streamlit as st 
 import plotly.express as px

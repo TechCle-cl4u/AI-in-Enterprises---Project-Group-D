@@ -6,7 +6,7 @@ Created on Sat Jan  3 20:36:14 2026
 @author: clemenslutz
 """
 
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain_community.chat_models import ChatOllama
 from langchain_core.output_parsers import StrOutputParser
 from ollama import Client
